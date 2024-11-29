@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  background: rgb(82,189,183);
+  background: linear-gradient(180deg, rgba(82,189,183,1) 0%, rgba(242,242,242,1) 100%);
+}

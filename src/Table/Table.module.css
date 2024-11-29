@@ -1,0 +1,14 @@
+.tabela{
+    border: 2px solid #f2f2f2;
+    list-style:armenian;
+    width: "100%";
+    
+}
+td{
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 2px solid #f2f2f2
+}
+th{
+    background-color: #f2f2f2;
+}
